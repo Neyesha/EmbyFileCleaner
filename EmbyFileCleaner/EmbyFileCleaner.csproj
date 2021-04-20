@@ -66,11 +66,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Cleaner.cs" />
-    <Compile Include="Model\Json\Config.cs" />
-    <Compile Include="Model\Json\ConnectionInfo.cs" />
-    <Compile Include="Model\Json\ItemType.cs" />
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
